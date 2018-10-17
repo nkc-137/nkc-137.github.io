@@ -1,6 +1,6 @@
 name: Kapil Chandra
 title: N Kapil Chandra
 email: kapilchandra81@gmail.com
-markdown: kramdown
+
 permalink: /blog/:year/:month/:day/:title
-theme: jekyll-theme-cayman
+markdown: kramdown
