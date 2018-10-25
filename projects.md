@@ -12,7 +12,7 @@ Process-Structure-Property relationship is the crux of materials engineering. To
 
 <p align="center">
 
-<img src="/PSPP.jpg" width="50%">
+<img src="assets/PSPP.jpg" width="50%">
 
 </p>
 
@@ -26,7 +26,7 @@ In this project I have particularly focused on structure and property linkages. 
 The below flow chart summarizes the steps involved in the project:
 
 <p align="center">
-<img src="/flow_chart.jpg" width="70%" height="70%">
+<img src="assets/flow_chart.jpg" width="70%" height="70%">
 </p>
 
 The project involves generation of training data to performing feature engineering and final development of machine learning pipeline to efficiently predict microstructural information from flow curve of the material.
