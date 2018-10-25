@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: default
 title: Projects
 permalink: /projects
 ---
-<link rel="stylesheet" href="/style.css" type="text/css" media="all" ></link>
+<link rel="stylesheet" href="/style.css" type="text/css" media="all" >
 
 ## Reasearch projects
 
