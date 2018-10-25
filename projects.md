@@ -34,29 +34,7 @@ The project involves generation of training data to performing feature engineeri
 ### 2. Internship at Indian Institute of Sciences, Bengaluru
 
 
-
-### 3. Hot cracking susceptibility of Ni-based superalloys during laser based additive manufacturing
-
-A multi-scale approach for formualted to predict the cracking susceptibilty of Ni-based superalloys. A macro-sclae model was used to model the heat flow which predicted the cooling rates, gradients of temperature in in the domain. This was then fed into a phase field model to predict the morphological evolution of the microstructre in the soldiifaction front.  The shape of the dendrites was used to claculate the cracking susceptibilty. All the simulaions were carried out using in-house codes.
-
-
-### 5. Study of grain growth characteristics in spark plama sintered MgO
-
-The goal was to model the growth charecteristics of MgO as a function of the processing parameters. Through this we were able to deduce the effect of electric current, pressure, temperature on the growth of nano MgO powders. I performed ball milling to achieve nano powders for used XRD,  optical and scanning electron microscopy to charecterise the samples before and after sintering.  
-
-
 ## Course projects
-
-### 1. Effect of an inhomogenity on a dislocation
-
-The dynamics of dislocations determines the plasticity of a material. Though there are various reasons for the movement dislocations to get hindered, presence of inhomogeneity plays a very significant role. The presence of inhomogeneity can significantly hinder the dislocations thus strengthening the material. This is the mechanism by which many alloys, including Al-Cu alloys, acquire its strength. Thus, understanding the effect of inhomogeneities on dislocation would enable us to predict the mechanical response of many industrially relevant alloy systems. To understand how inhomogeneities in the matrix affect the dislocation motion, we tried to determine the force acting on the dislocation for a given strain boundary condition and compare it with the case where the material is homogeneous.
-
-
-### 2. Calculation of Interfacial energies for θ′ precipitates in Al-Cu matrix
-
-We presented a study to model the interface energies of precipitates growing in a mtrix. We implemented DFT techniques to calculate the bulk energies of Al-Cu matrix, θ′ precipitates , inerface energicies of the matrix and θ′ precipitates and the energy due to the coherency strain associated with the interface. We tried to calculate all the parameters that are required by models like phase field methods to understand the microstructure evolution thus enabling a multiscale approach to solve engineering problems.
-
-Normal Text
 
 <p align="center">
   <b>Some Links:</b><br>
@@ -66,8 +44,5 @@ Normal Text
   <br><br>
   <img src="http://s.4cdn.org/image/title/105.gif">
 </p>
-
-Normal text
-
 
 [Anxin Ma and Alexander Hartmaier]: https://doi.org/10.1080/14786435.2013.847290
