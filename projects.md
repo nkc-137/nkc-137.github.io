@@ -20,11 +20,11 @@ Process-Structure-Property relationship is the crux of materials engineering. To
 
 
 In this project I have particularly focused on structure and property linkages. The ultimate goal of the project is to be able to construct the yield surface of a material by generating yield loci using robust machine learning models under different loading conditions. Before going to advanced analytical models like the Barlat YLD 2004-18p model I have attempted to replace relatively simpler crystal plasticity model called the nonlocal crystal plasticity model as given by [Anxin Ma and Alexander Hartmaier]. The output of the project would lead to a tool which can obviate the need to carry out time consuming and computationally expensive crystal plasticity finite element simulations. The motivation behind using machine learning algorithms comes because of the following reasons:
-<p align="left">
-1. Only requires an initial investment of computational resources to train the model and once it is trained it is ready to be deployed and used
-2. Takes very less time to use it and is cost effective
-3. Machine learning models are very good at generalization and carefuly trained models also work well on new 'unseen' data points
-</p>
+
+1. Only requires an initial investment of computational resources to train the model and once it is trained it is ready to be deployed and used.
+2. Takes very less time to use it and is cost effective.
+3. Machine learning models are very good at generalization and carefuly trained models also work well on new 'unseen' data points.
+
 The below flow chart summarizes the steps involved in the project:
 
 <p align="center">
