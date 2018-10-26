@@ -31,7 +31,7 @@ The below flow chart summarizes the steps involved in the project:
 <img src="assets/flow_chart.jpg" width="70%" height="70%">
 </p>
 
-The project involves generation of training data to performing feature engineering and final development of machine learning pipeline to efficiently predict microstructural information from flow curve of the material.
+The project involves generation of training data to performing feature engineering and final development of machine learning pipeline to efficiently predict microstructural information from flow curve of the material. Good results were obtained in the project and I am 
 
 ### 2. Internship at Indian Institute of Sciences, Bengaluru
 I was selected for [Summer Research Fellowship Programme (SRFP)](http://web-japps.ias.ac.in:8080/fellowship2017/lists/result.jsp), 2017 to work as a research intern in the materials engineering department of [Indian Institue of Science, Bengaluru](http://materials.iisc.ac.in/).
@@ -57,14 +57,6 @@ For people with a slow computer or who are not that fast with using a computer o
 <img src="assets/tatkal.jpg" width="70%" height="70%">
 </p>
 
-
-<p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 3</a>
-  <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
-</p>
 
 
 
