@@ -4,8 +4,6 @@ title: Projects
 permalink: /projects
 ---
 
-# Projects
-
 ## Reasearch projects
 
 ### 1. Structure-Property linkages using Machine Learning
