@@ -51,7 +51,7 @@ Studying in materials science department and having an affinity towards mathemat
 ## Self Motivated Projects
 
 ### Automated tatkal train tickets booking tool
-For people with a slow computer or who are not that fast with using a computer often face the problem of not being able to book online tatkal train tickets (A system where online booking starts sharp at 11:00am and limited seats are given on a first book first serve basis). To solve this problem I have made a tool which can automatically book train tickets once the portal is open, all the user needs to do is enter his details and preferences in the code and run the code. The code will automiatically start the process at the right time. If you also want to book tatkal tickets faster than other feel free to use my [code](https://github.com/nkc-137/automation-tools).
+For people with a slow computer or who are not that fast with using a computer often face the problem of not being able to book online tatkal train tickets (A system where online booking starts sharp at 11:00am and limited seats are given on a first book first serve basis). To solve this problem I have made a tool which can automatically book train tickets once the portal is open, all the user needs to do is enter his details and preferences in the code and run the code. The code will automiatically start the process at the right time. If you also want to book tatkal tickets faster than others feel free to use my [code](https://github.com/nkc-137/automation-tools).
 
 <p align="center">
 <img src="assets/tatkal.jpg" width="70%" height="70%">
