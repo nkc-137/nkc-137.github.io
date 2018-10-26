@@ -47,12 +47,12 @@ I worked under [Dr. Abhik Choudhury](http://materials.iisc.ac.in/faculty/abhik-c
 
 ### 3. Numerical modeling in FORTRAN
 
-Studying in materials science department and having an affinity towards mathematics & computing motivated me spend the summer of 2016 to learn more about numerical modeling by working on a project under [Dr. Kanjarla Anand Krishna](https://www.iitm.ac.in/info/fac/kanjarla) in my department. The final goal was to study stress induced diffusion in materials. I have implemented various equation solvers using finite difference and spectral methods. The code can be found in my [repository](https://github.com/nkc-137/Numerical-modeling-of-diffusion)
+Studying in materials science department and having an affinity towards mathematics & computing motivated me spend the summer of 2016 to learn more about numerical modeling by working on a project under [Dr. Kanjarla Anand Krishna](https://www.iitm.ac.in/info/fac/kanjarla) in my department. The final goal was to study stress induced diffusion in materials. I have implemented various equation solvers using finite difference and spectral methods. The code can be found in my [repository](https://github.com/nkc-137/Numerical-modeling-of-diffusion).
 
 
 ## Self Motivated Projects
 
-### Automated tatkal train tickets booking tool
+### 1. Automated tatkal train tickets booking tool
 For people with a slow computer or who are not that fast with using a computer often face the problem of not being able to book online tatkal train tickets (A system where online booking starts sharp at 11:00am and limited seats are given on a first book first serve basis). To solve this problem I have made a tool which can automatically book train tickets once the portal is open, all the user needs to do is enter his details and preferences in the code and run the code. The code will automiatically start the process at the right time. If you also want to book tatkal tickets faster than others feel free to use my [code](https://github.com/nkc-137/automation-tools).
 
 <p align="center">
