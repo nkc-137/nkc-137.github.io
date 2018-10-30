@@ -28,7 +28,7 @@ Expected to graduate by May 2019
 
 #### Foundations of Physics (Minor)
 
-- Qauntum Physics
+- Quantum Physics
 - Atomistic Modelling of Materials
 - Physics of materials
 - Classical Physics
