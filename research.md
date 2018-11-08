@@ -4,7 +4,7 @@ title: Research
 permalink: /research
 ---
 
-[Curriculum Vitae](/assets/CV_2018.pdf)
+[Curriculum Vitae](assets/CV_2018.pdf)
 
 My research interests are:
 
