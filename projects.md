@@ -32,7 +32,10 @@ The below flow chart summarizes the steps involved in the project:
 
 The project involves generation of training data to performing feature engineering and final development of machine learning pipeline to efficiently predict microstructural information from flow curve of the material. Good results were obtained in the project and I am 
 
-### 2. Internship at Indian Institute of Sciences, Bengaluru
+### 2. Machine learning atomistic potentials of Ag nanoclusters
+
+
+### 3. Internship at Indian Institute of Sciences, Bengaluru
 
 I was selected for [Summer Research Fellowship Programme (SRFP)](http://web-japps.ias.ac.in:8080/fellowship2017/lists/result.jsp), 2017 to work as a research intern in the materials engineering department of [Indian Institue of Science, Bengaluru](http://materials.iisc.ac.in/).
 
@@ -45,7 +48,7 @@ I worked under [Dr. Abhik Choudhury](http://materials.iisc.ac.in/faculty/abhik-c
 
 </p>
 
-### 3. Numerical modeling in FORTRAN
+### 4. Numerical modeling in FORTRAN
 
 Studying in materials science department and having an affinity towards mathematics & computing motivated me spend the summer of 2016 to learn more about numerical modeling by working on a project under [Dr. Kanjarla Anand Krishna](https://www.iitm.ac.in/info/fac/kanjarla) in my department. The final goal was to study stress induced diffusion in materials. I have implemented various equation solvers using finite difference and spectral methods. The code can be found in my [repository](https://github.com/nkc-137/Numerical-modeling-of-diffusion).
 
