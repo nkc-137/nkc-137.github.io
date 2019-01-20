@@ -6,8 +6,11 @@ permalink: /projects
 
 ## Reasearch projects
 
-### 1. Structure-Property linkages using Machine Learning
-I was given an opportunity to work as a fully funded summer intern in [ICAMS](http://www.icams.de/content/) in [Prof. Alexander Hartmaier's](http://www.icams.de/content/people/icams-staff-members/?detail=5) group under the supervision of [Dr. Napat Vajragupta](http://www.icams.de/content/people/icams-staff-members/?detail=1385) during the summer of 2019.
+### 1. Development of atomistic potentials of Silver nanoclusters using machine learning
+First principle calculations have been successful in solving a wide range of problems in materials science. The accuracy of these simulations comes at the expense of huge computing cost. On top of that, these simulations are limited to small systems containing hundreds of atoms for a time scale of hundred of picoseconds. I started working on this project with [Dr. Satyesh Kumar Yadav](http://mme.iitm.ac.in/satyesh/) as a part of my Master's Thesis. The goal of this project is to leverage machine learning to accelerate first principle calculations. I am working on developing atomistic potentials for silver nanoclusters using fingerprint-based Kernel Ridge Regression as in the paper "Adaptive Machine Learning Framework to Accelerate Ab Initio Molecular Dynamics" by Botu et al.
+
+### 2. Structure-Property linkages using Machine Learning
+I was given an opportunity to work as a fully funded summer intern in [ICAMS](http://www.icams.de/content/) in [Prof. Alexander Hartmaier's](http://www.icams.de/content/people/icams-staff-members/?detail=5) group with [Dr. Napat Vajragupta](http://www.icams.de/content/people/icams-staff-members/?detail=1385) during the summer of 2019.
 
 Process-Structure-Property relationship is the crux of materials engineering. To design a material to try to meet a user's need. Based on the user's need we decide upon what properties the material should have (it can be strength, toughness, hydrogen resistance etc.) and then we try to figure  out which structure leads to the desired properties. The structure of the material is tuned by the processing technique used to manufacture the material. This is the inductive or the Goal/Means approach. The other way round is deductive or the Cause/Effect approach where we have a processing technique which decides the structure and that particular structure gives some properties and we try to find some applications for that material with those properties. Below is a schematic
 
@@ -30,9 +33,7 @@ The below flow chart summarizes the steps involved in the project:
 <img src="assets/flow_chart.jpg" width="70%" height="70%">
 </p>
 
-The project involves generation of training data to performing feature engineering and final development of machine learning pipeline to efficiently predict microstructural information from flow curve of the material. Good results were obtained in the project and I am 
-
-### 2. Machine learning atomistic potentials of Ag nanoclusters
+The project involves generation of training data to performing feature engineering and final development of machine learning pipeline to efficiently predict microstructural information from flow curve of the material. 
 
 
 ### 3. Internship at Indian Institute of Sciences, Bengaluru
