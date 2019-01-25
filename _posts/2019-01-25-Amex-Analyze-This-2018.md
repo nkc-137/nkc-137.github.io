@@ -21,12 +21,12 @@ Coming to the solution that worked for us, we had a try a lot of different appro
 Below is a schematic of the pipeline:
 
 <p align="center">
-<img src="assets/Amex.jpg">
+<img src="http://nkc-137.github.io/assets/Amex.jpg">
 </p>
 
 The first thing that we did was to look at the correlation and the distribution of features. We found that quite a few features were skewed as shown below:
 <p align="center">
-<img src="/home/kapil/nkc-137.github.io/assets/before.png" width=50%>
+<img src="http://nkc-137.github.io/assets/before.png" width=50%>
 </p>
 
 $$x=y$$
