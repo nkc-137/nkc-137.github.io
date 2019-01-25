@@ -7,7 +7,7 @@ Welcome to my website!
 I am KAPIL Chandra.
 
 <figure>
-<img class="home" src="/assets/profile_pic.jpg" alt="Me">
+<img class="home" src="/assets/profile_pic.jpg" alt="Me" width="75%">
 
 </figure>
 I am a final year student at [IIT Madras](http://www.iitm.ac.in/), pursuing Dual Degree(B.Tech & M.Tech) in [Metallurgical and Materials Engineering](https://mme.iitm.ac.in).
