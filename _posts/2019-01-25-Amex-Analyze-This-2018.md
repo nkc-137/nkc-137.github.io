@@ -27,7 +27,7 @@ Below is a schematic of the pipeline:
 The first thing that we did was to look at the correlation and the distribution of features. We found that quite a few features were skewed as shown below:
 
 <p align="center">
-<img src="http://nkc-137.github.io/assets/before.png">
+<img src="http://nkc-137.github.io/assets/before.png" width="50%">
 </p>
 
 <!-- $$x=y$$ -->
