@@ -27,7 +27,7 @@ Below is a schematic of the pipeline:
 The first thing that we did was to look at the correlation and the distribution of features. We found that quite a few features were skewed as shown below:
 
 <p align="center">
-<img src="http://nkc-137.github.io/assets/before.png" width="50%">
+<img src="http://nkc-137.github.io/assets/before.png" width="40%">
 </p>
 
-<!-- $$x=y$$ -->
+To remove the skewness in these features Box-Cox tranformation was used
