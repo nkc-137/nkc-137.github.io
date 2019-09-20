@@ -15,7 +15,7 @@ Expected to graduate in 2021
 
 **Dual Degree( B.Tech + M.Tech) in Metallurgical and Materials Engineering**,   
 *Indian Institute of Technology, Chennai, India*  
-Minor : Foundations of Physics
+Minor : Foundations of Physics <br />
 CGPA: 8.80/10
 
 # Coursework
