@@ -8,13 +8,12 @@ I am first year Master's student in Computational Science Engineering and Mathem
 
 # Education
 
-**Master's in Computational Science Engineering and Mathematics**
-University of Texas at Austin
-Minor : Applied Statistical Modeling
-
+**Master's in Computational Science Engineering and Mathematics**,
+*University of Texas at Austin* <br />
+Minor : Applied Statistical Modeling <br />
 Expected to graduate in 2021
 
-**Dual Degree( B.Tech + M.Tech) in Metallurgical and Materials Engineering**,     
+**Dual Degree( B.Tech + M.Tech) in Metallurgical and Materials Engineering**,   
 *Indian Institute of Technology, Chennai, India*  
 Minor : Foundations of Physics
 CGPA: 8.80/10
