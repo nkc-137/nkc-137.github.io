@@ -4,7 +4,7 @@ title: Academics
 permalink: /academics
 ---
 
-I am first year Master's student in Computational Science Engineering and Mathematics program at UT Austin. I am pursuing minro
+I am planning to focus my studies in applied mathematics and statistics and I have taken a bunch of math courses in my first semester at UT.
 
 # Education
 
