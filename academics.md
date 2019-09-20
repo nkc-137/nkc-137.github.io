@@ -4,20 +4,30 @@ title: Academics
 permalink: /academics
 ---
 
-I am a final year dual degree student in Indian Institute of Technology Madras.
+I am first year Master's student in Computational Science Engineering and Mathematics program at UT Austin. I am pursuing minro
 
 # Education
+
+**Master's in Computational Science Engineering and Mathematics**
+University of Texas at Austin
+Minor : Applied Statistical Modeling
+
+Expected to graduate in 2021
 
 **Dual Degree( B.Tech + M.Tech) in Metallurgical and Materials Engineering**,     
 *Indian Institute of Technology, Chennai, India*  
 Minor : Foundations of Physics
 CGPA: 8.80/10
 
-Expected to graduate by May 2019
+# Coursework
 
-# Coursework in IIT Madras
+#### Mathematics
+- Statistical models for big data
+- Bayesian statistical methods
+- Probability, Statistics and Stochastic Processes
+- Reinforcement learning
 
-#### Deep Learning and Machine Learning
+#### ML and DL online courses
 
 - Machine learning for engineering and scientific applications
 - Neural networks and deep learning [(Coursera)](https://www.coursera.org/account/accomplishments/verify/HV745XB9VTX4)
@@ -31,13 +41,7 @@ Expected to graduate by May 2019
 - Graph theory and its applications in process design
 - Fundamentals of operations research
 
-#### Mathematics
-
-- Probability, Statistics and Stochastic Processes
-- Differential Equations
-- Calculus
-
-#### Metallurgy and Material Science (Major)
+#### Material Science (Major)
 
 - Atomistic modeling of materials by [Satyesh Kumar Yadav](https://mme.iitm.ac.in/satyesh/index.html)
 - Computational materials engineering lab
