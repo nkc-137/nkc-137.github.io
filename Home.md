@@ -16,7 +16,6 @@ I am a first year Master's student in [Computational Science Engineering and Mat
 
 Currently my focus is primarily on applied mathematics and statistical modeling.
 
-I like spending my time working on data sets and participating in data science competitions.
-I was one among the 4 candidates from IIT Madras to bag a Pre-Placement Interview (PPI) offer from American Express for outstanding performance in Amex Analyze This Competition, 2018.
+I am looking for Data Science summer internship oppportunities starting Summer 2020.
 
 Please feel free to go through my website!
